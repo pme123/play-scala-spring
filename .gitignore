@@ -44,3 +44,5 @@ Temporary Items
 target/*
 project/target/*
 project/project/target/*
+logs/*
+.idea/*
